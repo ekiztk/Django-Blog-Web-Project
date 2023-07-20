@@ -5,7 +5,8 @@ admin
 
 User Password(all passwords is same): sifre1234
 
-#GIFS
+# GIFS
+
 ![](https://github.com/ekiztk/Django-Blog-Web-Project/blob/main/gifs/home_page.gif)
 
 ![](https://github.com/ekiztk/Django-Blog-Web-Project/blob/main/gifs/home_page.gif)
